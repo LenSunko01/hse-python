@@ -1,7 +1,7 @@
 from typing import List
 
 
-def fibonacci(n) -> List[int]:
+def fibonacci(n):
     fst = 0
     snd = 1
     n_fibonacci = [fst]
